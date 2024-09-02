@@ -1,3 +1,4 @@
+apps.microsoft.com
 doodles.google/
 neal.fun/
 scratch.mit.edu/projects
